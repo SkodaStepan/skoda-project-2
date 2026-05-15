@@ -24,7 +24,9 @@ Tato práce se zabývá výměnou žárovek v palubní desce motocyklu Honda CBR
 
 ## Použité součástky
 
-nový žárovky typu-T10 5V
+- nový žárovky typu-T10 5W
+  <img width="232" height="310" alt="image" src="https://github.com/user-attachments/assets/55cb4cd1-e06f-4f69-ab0a-d6dc3410a292" />
+
 
 <img width="378" height="505" alt="1 moto" src="https://github.com/user-attachments/assets/6ce3693a-3757-47f4-b8d9-22d0a0cfa93f" />
 
@@ -36,10 +38,14 @@ nový žárovky typu-T10 5V
 ## Potřebné nářadí a materiál
 Nářadí
 
-křížový šroubovák,
-plochý šroubovák,
-kleště,
-trpělivost :)
+- křížový šroubovák
+- plochý šroubovák
+- kleště
+- imbusové klíče (nejčastěji 4 mm a 5 mm)
+- gola nebo očkový klíč 8 mm a 10 mm
+- čistý hadřík
+- čelovka nebo baterka
+- trpělivost :)
 
 
 ## Bezpečnost práce
@@ -72,7 +78,7 @@ Namontování všeho zpět v opačném pořadí.
 
 
 
-### Tohle je výsledek mého snažení:
+###     Tohle je výsledek mého snažení:
 
 
 <img width="376" height="505" alt="lalal" src="https://github.com/user-attachments/assets/21fdcbab-0f50-49af-a12e-7bcd9310f396" />
