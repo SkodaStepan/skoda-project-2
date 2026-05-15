@@ -8,10 +8,10 @@ Druhý ročníkový projekt na téma oprava (výměna) žárovek v palubovce na 
 
 
 ## Úvod
-Tato práce se zabývá výměnou žárovek v palubní desce motocyklu Honda CBR125R z roku 2004. Důvodem výměny byla skoro nulová viditelnost osvětlení tachometru a ukazatelů. Cílem projektu bylo zjistit příčinu závady, provést opravu (výměnu) a ověřit správnou funkčnost přístrojové desky.
+Tato práce se zabývá výměnou žárovek v palubní desce motocyklu Honda CBR125R z roku 2004. Důvodem výměny byla skoro nulová viditelnost osvětlení tachometru a ukazatelů. Cílem projektu bylo zjistit příčinu závady, provést opravu (výměnu) a ověřit správnou funkčnost přístrojové desky (osvětlení).
 
 <img width="379" height="501" alt="image" src="https://github.com/user-attachments/assets/abe00c82-d251-4b89-8976-6c9c4ecc3b89" />
-- V noci není skoro vůbec vidět na otáčky, rychlost prostě to nesvítí:)
+- V noci není skoro vůbec vidět na otáčky, rychlost prostě to nesvítí :)
 
 
 ## Cíle projektu
